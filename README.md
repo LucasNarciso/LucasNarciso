@@ -2,7 +2,7 @@
 I'm Lucas Narciso, Web Developer.
 
 ## 🔍 Contact
-<a href="https://www.linkedin.com/in/lucas-narciso01/" target="_blank"><img alt="LinkedIn" src="/Ícones/GitHub-Linkedin.png"></a> <a href="https://www.instagram.com/lucasnarcisos/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:lucasnarcisoo@gmail.com?subject=Hello%20Lucas,"> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasnarcisoo@gmail.com)](mailto:lucasnarcisoo@gmail.com)
+<a href="https://www.linkedin.com/in/lucas-narciso01/" target="_blank"><img alt="LinkedIn" src="/Ícones/GitHub-Linkedin.png"></a> <a href="https://www.instagram.com/lucasnarcisos/" target="_blank"><img alt="Instagram" src="/Ícones/GitHub-Instagram.png"></a> <a href="mailto:lucasnarcisoo@gmail.com?subject=Hello%20Lucas,"> [![Gmail Badge](/Ícones/GitHub-Linkedin.png=mailto:lucasnarcisoo@gmail.com)](mailto:lucasnarcisoo@gmail.com)
   
 ## 🛠 Technologies and Tools
 
