@@ -2,7 +2,7 @@
 I'm Lucas Narciso, Web Developer and Student.
 
 ## 🔍 Contact
-<a href="https://www.linkedin.com/in/lucas-narciso01/" target="blank"><img alt="LinkedIn" src="/Ícones/Linkedin.png"></a> <a href="https://www.instagram.com/lucasnarcisos/" target="blank"><img alt="Instagram" src="/Ícones/Instagram.png"></a> <a href="mailto:lucasnarcisoo@gmail.com?subject=Hello%20Lucas,">
+<a href="https://www.linkedin.com/in/lucas-narciso01/" target="_blank"><img alt="LinkedIn" src="/Ícones/Linkedin.png"></a> <a href="https://www.instagram.com/lucasnarcisos/" target="_blank"><img alt="Instagram" src="/Ícones/Instagram.png"></a>
   
 ## 🛠 Technologies and Tools
 
