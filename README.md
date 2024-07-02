@@ -21,8 +21,8 @@ I'm Lucas Narciso, Web Developer and Student.
 ## ⭐️ GitHub Stats
   
 <div>
-  <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNarciso&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/>
-  <!--<br>
-  <img width=400em src="https://github-readme-stats.vercel.app/api?username=LucasNarciso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasNarciso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LucasNarciso&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   
 </div>
