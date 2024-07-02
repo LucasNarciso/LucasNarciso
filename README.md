@@ -1,9 +1,10 @@
 ## Hello!
 I'm Lucas Narciso, Web Developer and Student.
 
+<!--
 ## 🔍 Contact
 <a href="https://www.linkedin.com/in/lucas-narciso01/" target="_blank"><img alt="LinkedIn" src="/Ícones/Linkedin.png"></a> <a href="https://www.instagram.com/lucasnarcisos/" target="_blank"><img alt="Instagram" src="/Ícones/Instagram.png"></a>
-  
+ -->
 ## 🛠 Technologies and Tools
 
 <div style={ display: flex }>
@@ -21,7 +22,7 @@ I'm Lucas Narciso, Web Developer and Student.
   
 <div>
   <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNarciso&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/>
-  <br>
-  <img width=400em src="https://github-readme-stats.vercel.app/api?username=LucasNarciso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!--<br>
+  <img width=400em src="https://github-readme-stats.vercel.app/api?username=LucasNarciso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
   
 </div>
