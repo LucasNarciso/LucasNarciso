@@ -1,4 +1,4 @@
-## Hello!
+## Hello, world!
 I'm Lucas Narciso, Web Developer and Student.
 
 <!--
