@@ -9,14 +9,14 @@ I'm Lucas Narciso, a web developer in constant learning and improvement.
 
 <div style={ display: flex }>
 
-  [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://react.dev/)
-  [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">](https://www.php.net/)
-  [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">](https://www.mysql.com/)
-  [<img src="https://img.shields.io/badge/Apps_Script-white?style=for-the-badge&logo=googleappsscript">](https://www.google.com/script/start/)
-  [<img src="https://img.shields.io/badge/Python-003059?style=for-the-badge&logo=python">](https://www.python.org/)
+  [<img src="https://img.shields.io/badge/HTML5-011627?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img src="https://img.shields.io/badge/CSS3-011627?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img src="https://img.shields.io/badge/JavaScript-011627?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img src="https://img.shields.io/badge/React-011627?style=for-the-badge&logo=react&logoColor=61DAFB">](https://react.dev/)
+  [<img src="https://img.shields.io/badge/PHP-011627?style=for-the-badge&logo=php&logoColor=white">](https://www.php.net/)
+  [<img src="https://img.shields.io/badge/MySQL-011627?style=for-the-badge&logo=mysql&logoColor=white">](https://www.mysql.com/)
+  [<img src="https://img.shields.io/badge/Apps_Script-011627?style=for-the-badge&logo=googleappsscript">](https://www.google.com/script/start/)
+  [<img src="https://img.shields.io/badge/Python-011627?style=for-the-badge&logo=python">](https://www.python.org/)
   
 </div>
 
