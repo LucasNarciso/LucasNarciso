@@ -24,13 +24,13 @@ I'm Lucas Narciso, a web developer in constant learning and improvement.
 
 <div style={ display: flex }>
 
-  [<img src="https://img.shields.io/badge/Git-EEEEE6?style=for-the-badge&logo=git">](https://git-scm.com/)
-  [<img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman">](https://www.postman.com/)
-  [<img src="https://img.shields.io/badge/Visual_Studio_Code-1E1E1E?style=for-the-badge">](https://code.visualstudio.com/)
-  [<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion">](https://www.notion.so/)
-  [<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma">](https://www.figma.com/)
-  [<img src="https://img.shields.io/badge/Beekeeper%20Studio-black?style=for-the-badge&logo=beekeeperstudio">](https://www.beekeeperstudio.io/)
-  [<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github">](https://github.com/)
+  [<img src="https://img.shields.io/badge/Git-011627?style=for-the-badge&logo=git">](https://git-scm.com/)
+  [<img src="https://img.shields.io/badge/Postman-011627?style=for-the-badge&logo=postman">](https://www.postman.com/)
+  [<img src="https://img.shields.io/badge/Visual_Studio_Code-011627?style=for-the-badge">](https://code.visualstudio.com/)
+  [<img src="https://img.shields.io/badge/Notion-011627?style=for-the-badge&logo=notion">](https://www.notion.so/)
+  [<img src="https://img.shields.io/badge/Figma-011627?style=for-the-badge&logo=figma">](https://www.figma.com/)
+  [<img src="https://img.shields.io/badge/Beekeeper%20Studio-011627?style=for-the-badge&logo=beekeeperstudio">](https://www.beekeeperstudio.io/)
+  [<img src="https://img.shields.io/badge/Github-011627?style=for-the-badge&logo=github">](https://github.com/)
   
 </div>
   
