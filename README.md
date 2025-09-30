@@ -15,7 +15,7 @@ I'm Lucas Narciso, a web developer in constant learning and improvement.
   [<img src="https://img.shields.io/badge/React-011627?style=for-the-badge&logo=react&logoColor=61DAFB">](https://react.dev/)
   [<img src="https://img.shields.io/badge/PHP-011627?style=for-the-badge&logo=php&logoColor=white">](https://www.php.net/)
   [<img src="https://img.shields.io/badge/MySQL-011627?style=for-the-badge&logo=mysql&logoColor=white">](https://www.mysql.com/)
-  [<img src="https://img.shields.io/badge/Apps_Script-011627?style=for-the-badge&logo=googleappsscript">](https://www.google.com/script/start/)
+  [<img src="https://img.shields.io/badge/GAS-011627?style=for-the-badge&logo=googleappsscript">](https://www.google.com/script/start/)
   [<img src="https://img.shields.io/badge/Python-011627?style=for-the-badge&logo=python">](https://www.python.org/)
   
 </div>
